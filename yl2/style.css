@@ -1,0 +1,26 @@
+#map {
+    height: 100%;
+  }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto', sans-serif;
+  width: 15em;
+}
+
+#title {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+#description {
+  font-size: 1.4em;
+}

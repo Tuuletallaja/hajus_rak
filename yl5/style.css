@@ -1,0 +1,15 @@
+.data {
+    height: auto;
+}
+
+#data {
+    max-width: 20rem;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+
+.image {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}

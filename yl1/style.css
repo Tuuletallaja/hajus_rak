@@ -1,0 +1,22 @@
+#cityContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.city {
+    padding: 1em;
+    min-width: 16rem;
+    border: black 2px solid;
+    margin: 0.5em;
+    background-color: #B5DFFF;
+    border-radius: 0.5em;
+}
+
+#name {
+    font-size: 2em;
+    font-weight: 600;
+    display: flex;
+
+}
